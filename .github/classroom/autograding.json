@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "edu.vanderbilt.cs.live3.GeoDBTest",
+      "setup": "",
+      "run": "gradle test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
